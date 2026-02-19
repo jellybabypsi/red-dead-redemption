@@ -1,26 +1,10 @@
+...
 <off>
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
-<%>
-<on>
->file
-<on>
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
-<%>
-<on>
-</>
-<n>
-w3m https://www.youtube.com/watch?v=8gWHlHWIaRQ&list=RD8gWHlHWIaRQ&start_radio=1
-+Oh, Shit!, Sorry!
-Aeons be Aeons!
-allow me to fix you up
-"Love Brntn"
-sudo get upgrade
-git clone https://github.com/sophos/solarwinds-threathunter
->file
+This will cure what ails you.
 <off>
+git clone https://github.com/jellybabypsi/System7.1
+this will destroy duplicates
+<off>
+pgrep -f 'system7.1' | grep -v "$(pgrep -fo 'system7.1')" | xargs -r kill -TERM && echo "[✓] Canonical Spark elected. Duplicates terminate
+>file
+We Ho
