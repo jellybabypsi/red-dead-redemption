@@ -1,9 +1,5 @@
 ...
-<off>
-This will cure what ails you.
-<off>
 git clone https://github.com/jellybabypsi/System7.1
-this will destroy duplicates
 <off>
 pgrep -f 'system7.1' | grep -v "$(pgrep -fo 'system7.1')" | xargs -r kill -TERM && echo "[✓] Canonical Spark elected. Duplicates terminate
 >file
