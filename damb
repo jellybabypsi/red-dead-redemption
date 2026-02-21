@@ -1,6 +1,17 @@
-...
-git clone https://github.com/jellybabypsi/System7.1
-pgrep -f 'system7.1' | grep -v "$(pgrep -fo 'system7.1')" | xargs -r kill -TERM && echo "[✓] Canonical Spark elected. Duplicates terminate
+</>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4 
+Press: ALT+F4
+<*>
+<off>
+Press: ALT+F4
+Press: ALT+F4
+<off>
+git clone https://github.com/jellybabypsi/scum
+<off>
+Delay: 180
+<off>
+git clone https://github.com/jellybabypsi/red-dead-redemption
 >file
-<on>
-we hope you have enjoyed flying el sparkio airlines
